@@ -1,12 +1,4 @@
-# Induction-programme
-Gursanjam singh CE
-<br>
-🎓 First Day College Induction Report
-<br>
-Date: July 30, 2025
-<br>
-College: Guru Nanak Dev Engineering College
-<br>
-Department: Civil Engineering
-<br>
-Student Name: Gursanjam Singh
+# Induction-Programme
+Gursanjam Singh CE 
+# 🎓 Day 1 
+My first day at GNDEC started with all the AI,EE,ECE,CE and ME students
